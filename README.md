@@ -6,12 +6,12 @@ https://desenvolvedor.io/
 
 1. [Apresentação (1:00)](#parte1) :heavy_check_mark: 
 2. [O que é arquitetura? (15:00)](#parte2) :heavy_check_mark: 
-3. [Perfis de arquitetos (6:00)](#parte3) 
-4. [Arquiteto Corporativo (7:00)](#parte4) 
-5. [Arquiteto de Negócios (6:00)](#parte5)      
-6. [Arquiteto de Soluções (6:00)](#parte6) 
-7. [Arquiteto de Software (11:00)](#parte7)   
-8. [Outros perfis de arquitetos (3:00)](#parte8)
+3. [Perfis de arquitetos (6:00)](#parte3) :heavy_check_mark: 
+4. [Arquiteto Corporativo (7:00)](#parte4) :heavy_check_mark: 
+5. [Arquiteto de Negócios (6:00)](#parte5) :heavy_check_mark: 
+6. [Arquiteto de Soluções (6:00)](#parte6) :heavy_check_mark: 
+7. [Arquiteto de Software (11:00)](#parte7) :heavy_check_mark: 
+8. [Outros perfis de arquitetos (3:00)](#parte8) :heavy_check_mark: 
 9. [Responsabilidades (7:00)](#parte9)
 10. [Requisitos Técnicos (8:00)](#parte10)
 11. [Requisitos Pessoais (14:00)](#parte11)
@@ -106,8 +106,11 @@ https://desenvolvedor.io/
 
 ---
 
-
 ## <a name="parte3">3 - Perfis de arquitetos (6:00)</a>
+
+![Definições](img/arquiteto_1.png)
+
+![Definições 2](img/arquiteto_2.png)
 
 
 
@@ -118,7 +121,9 @@ https://desenvolvedor.io/
 
 ## <a name="parte4">4 - Arquiteto Corporativo (7:00)</a>
 
+![Arquiteto Corporativo](img/arquiteto_corp_1.png)
 
+![Arquiteto Corporativo 2](img/arquiteto_corp_2.png)
 
 [Voltar ao Índice](#indice)
 
@@ -126,6 +131,10 @@ https://desenvolvedor.io/
 
 
 ## <a name="parte5">5 - Arquiteto de Negócios (6:00)</a>
+
+![arquiteto necócios](img/arquiteto_negocios_1.png)
+
+![arquiteto necócios](img/arquiteto_negocios_2.png)
 
 
 
@@ -136,7 +145,9 @@ https://desenvolvedor.io/
 
 ## <a name="parte6">6 - Arquiteto de Soluções (6:00)</a>
 
+![arquiteto soluções](img/arquiteto_solucoes.png)
 
+![arquiteto soluções](img/arquiteto_solucoes_2.png)
 
 [Voltar ao Índice](#indice)
 
@@ -145,6 +156,9 @@ https://desenvolvedor.io/
 
 ## <a name="parte7">7 - Arquiteto de Software (11:00)</a>
 
+![Arquiteto de Software](img/arquiteto_software.png)
+
+![Arquiteto de Software](img/arquiteto_software_2.png)
 
 
 [Voltar ao Índice](#indice)
@@ -154,7 +168,7 @@ https://desenvolvedor.io/
 
 ## <a name="parte8">8 - Outros perfis de arquitetos (3:00)</a>
 
-
+![Outros Perfis](img/outros_perfis.png)
 
 [Voltar ao Índice](#indice)
 
