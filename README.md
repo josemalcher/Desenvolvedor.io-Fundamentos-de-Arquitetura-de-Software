@@ -2,29 +2,27 @@
 
 https://desenvolvedor.io/
 
-
-
 ## <a name="indice">Índice</a>
 
-1. [Apresentação (1:00)](#parte1)     
-2. [O que é arquitetura? (15:00)](#parte2)     
-3. [Perfis de arquitetos (6:00)](#parte3)     
-4. [Arquiteto Corporativo (7:00)](#parte4)     
-5. [Arquiteto de Negócios (6:00)](#parte5)     
-6. [Arquiteto de Soluções (6:00)](#parte6)     
-7. [Arquiteto de Software (11:00)](#parte7)     
-8. [Outros perfis de arquitetos (3:00)](#parte8)     
-9. [Responsabilidades (7:00)](#parte9)     
-10. [Requisitos Técnicos (8:00)](#parte10)     
-11. [Requisitos Pessoais (14:00)](#parte11)     
-12. [Mitos sobre o Arquiteto de Software (11:00)](#parte12)     
-13. [Pilares da Programação Orientada a Objetos (4:00)](#parte13)     
-14. [Estado e Comportamento (7:00)](#parte14)     
-15. [Herança (6:00)](#parte15)     
-16. [Abstração (4:00)](#parte16)     
-17. [Polimorfismo (9:00)](#parte17)     
-18. [Encapsulamento (20:00)](#parte18)     
-19. [Interface x Implementação (10:00)](#parte19)     
+1. [Apresentação (1:00)](#parte1) :heavy_check_mark: 
+2. [O que é arquitetura? (15:00)](#parte2) :heavy_check_mark: 
+3. [Perfis de arquitetos (6:00)](#parte3) 
+4. [Arquiteto Corporativo (7:00)](#parte4) 
+5. [Arquiteto de Negócios (6:00)](#parte5)      
+6. [Arquiteto de Soluções (6:00)](#parte6) 
+7. [Arquiteto de Software (11:00)](#parte7)   
+8. [Outros perfis de arquitetos (3:00)](#parte8)
+9. [Responsabilidades (7:00)](#parte9)
+10. [Requisitos Técnicos (8:00)](#parte10)
+11. [Requisitos Pessoais (14:00)](#parte11)
+12. [Mitos sobre o Arquiteto de Software (11:00)](#parte12)
+13. [Pilares da Programação Orientada a Objetos (4:00)](#parte13)
+14. [Estado e Comportamento (7:00)](#parte14)
+15. [Herança (6:00)](#parte15)
+16. [Abstração (4:00)](#parte16)
+17. [Polimorfismo (9:00)](#parte17)
+18. [Encapsulamento (20:00)](#parte18)
+19. [Interface x Implementação (10:00)](#parte19)
 20. [Herança x Composição (17:00)](#parte20)     
 21. [Teste seus conhecimentos - Herança (3:00)](#parte21)     
 22. [Teste seus conhecimentos - Abstração (5:00)](#parte22)     
@@ -86,22 +84,23 @@ https://desenvolvedor.io/
 78. [Principios DRY, KISS e YAGNI (10:00)](#parte78)     
 79. [Leituras recomendadas (7:00)](#parte79)     
 80. [Palavras finais (6:00)](#parte80)     
-81. [](#parte81)     
 ---
 
 
 ## <a name="parte1">1 - Apresentação (1:00)</a>
 
-
-
 [Voltar ao Índice](#indice)
 
 ---
 
-
 ## <a name="parte2">2 - O que é arquitetura? (15:00)</a>
 
+![Arquitetura Inicio](/img/arquitetura_1.png)
 
+![Arquitetura Inicio 2](/img/arquitetura_2.png)
+
+- [https://publications.opengroup.org/](https://publications.opengroup.org/)
+- [https://www.iso.org/standard/50508.html](https://www.iso.org/standard/50508.html)
 
 [Voltar ao Índice](#indice)
 
@@ -808,13 +807,3 @@ https://desenvolvedor.io/
 [Voltar ao Índice](#indice)
 
 ---
-
-
-## <a name="parte81">81 - </a>
-
-
-
-[Voltar ao Índice](#indice)
-
----
-
