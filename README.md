@@ -12,10 +12,10 @@ https://desenvolvedor.io/
 6. [Arquiteto de Soluções (6:00)](#parte6) :heavy_check_mark: 
 7. [Arquiteto de Software (11:00)](#parte7) :heavy_check_mark: 
 8. [Outros perfis de arquitetos (3:00)](#parte8) :heavy_check_mark: 
-9. [Responsabilidades (7:00)](#parte9)
-10. [Requisitos Técnicos (8:00)](#parte10)
-11. [Requisitos Pessoais (14:00)](#parte11)
-12. [Mitos sobre o Arquiteto de Software (11:00)](#parte12)
+9. [Responsabilidades (7:00)](#parte9) :heavy_check_mark: 
+10. [Requisitos Técnicos (8:00)](#parte10) :heavy_check_mark: 
+11. [Requisitos Pessoais (14:00)](#parte11) :heavy_check_mark: 
+12. [Mitos sobre o Arquiteto de Software (11:00)](#parte12) :heavy_check_mark: 
 13. [Pilares da Programação Orientada a Objetos (4:00)](#parte13)
 14. [Estado e Comportamento (7:00)](#parte14)
 15. [Herança (6:00)](#parte15)
@@ -177,7 +177,7 @@ https://desenvolvedor.io/
 
 ## <a name="parte9">9 - Responsabilidades (7:00)</a>
 
-
+![Responsabilidades](img/perfil_1.png)
 
 [Voltar ao Índice](#indice)
 
@@ -186,7 +186,7 @@ https://desenvolvedor.io/
 
 ## <a name="parte10">10 - Requisitos Técnicos (8:00)</a>
 
-
+![Requisitos Técnicos](img/requisito_tecnico.png)
 
 [Voltar ao Índice](#indice)
 
@@ -195,7 +195,7 @@ https://desenvolvedor.io/
 
 ## <a name="parte11">11 - Requisitos Pessoais (14:00)</a>
 
-
+![Requisito Pessoal](img/requisito_pessoal.png)
 
 [Voltar ao Índice](#indice)
 
@@ -204,7 +204,7 @@ https://desenvolvedor.io/
 
 ## <a name="parte12">12 - Mitos sobre o Arquiteto de Software (11:00)</a>
 
-
+![Mitos](img/mitos_arquitetos.png)
 
 [Voltar ao Índice](#indice)
 
